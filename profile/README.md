@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo.jpg" alt="Logo" width="230" height="230">
+    <img src="./profile/logo.jpg" alt="Logo" width="230" height="230">
   </a>
 
   <h3 align="center">📖 Chalmers GroupRoom Booking 🎒</h3>
@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors and supporters of the project
 
 Thank you for choosing Chalmers Group Room Booking for managing your study sessions. Let's make campus life easier and more efficient together!
-```
+
