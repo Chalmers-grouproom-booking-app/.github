@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./logo.jpg" alt="Logo" width="230" height="230">
+    <img src="logo.jpg" alt="Logo" width="230" height="230">
   </a>
 
   <h3 align="center">📖 Chalmers GroupRoom Booking 🎒</h3>
