@@ -19,6 +19,11 @@
 </div>
 
 Welcome to the Chalmers Group Room Booking app - your ultimate tool for effortlessly booking group rooms at Chalmers University. Navigate through campus buildings with an interactive map and book rooms easily and efficiently.
+## Demo Video
+Watch the full video here with good quality <a href="https://github.com/Chalmers-grouproom-booking-app/backend/blob/main/app/static/demo.mp4">here</a>
+
+https://github.com/Chalmers-grouproom-booking-app/.github/assets/70110297/2fc9a313-6cdf-48ce-b14f-354107ae7ef4
+
 
 ## Features
 
@@ -26,10 +31,6 @@ Welcome to the Chalmers Group Room Booking app - your ultimate tool for effortle
 - **Effortless Booking:** Reserve your group room with just a few clicks. View availability in real-time and plan ahead.
 - **Real-time Availability:** Check the status of any group room on campus in real-time. Never miss out on a study spot again.
 - **User-Friendly Interface:** Our app is designed with simplicity in mind. Book rooms, navigate campus, and manage your reservations effortlessly.
-
-## Getting Started
-TODO FIX
-### Prerequisites
 
 Before you begin, ensure you have the following installed:
 - Node.js
